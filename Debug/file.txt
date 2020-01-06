@@ -1,0 +1,19 @@
+while (string != null){
+	while (true){
+		while (false){
+			print("score");
+		}
+	}
+
+	do {
+		print("fitzeralt");
+	}while(test != '1');
+}
+
+{
+ {
+  {
+
+  }
+ }
+}
